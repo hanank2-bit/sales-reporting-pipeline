@@ -1,6 +1,6 @@
 -- The twelve reports this pipeline runs, in order of difficulty.
 -- Each block starts with a name line and is picked up by run_reports.py.
-
+-- from s5 to s10 we find the information to build the report.
 
 -- name: revenue_by_region
 -- Level 1: your first GROUP BY. Always qualify every non-aggregated column.
