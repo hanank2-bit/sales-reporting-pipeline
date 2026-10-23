@@ -1,6 +1,5 @@
 # Sales Reporting Pipeline
-Findings
-
+## Findings
 Manchester is the strongest region, leading on both orders (166) and revenue. Leeds is the weakest earner. Its customers pay almost exactly the same prices as Manchester's (£49.03 vs £49.23 per item) but buy 2.2 fewer items per order on average. Discounting doesn't explain this, because Leeds has the lowest average discount of any region.
 
 Across the business, orders with no discount have the highest average value, so discounts don't appear to grow order size. It would be worth testing smaller or fewer discounts to see whether revenue holds up.
