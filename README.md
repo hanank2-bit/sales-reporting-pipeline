@@ -11,7 +11,7 @@ workbook out, with a SQL database in the middle.
 
 This is portfolio project 1 from the roadmap. It is deliberately the same
 shape as paid work: clean the client's data, load it into a database,
-answer twelve business questions in SQL, hand back a report.
+answer eighteen business questions in SQL, hand back a report.
 
 ## Requirements
 
